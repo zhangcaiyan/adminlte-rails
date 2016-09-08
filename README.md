@@ -27,7 +27,7 @@ Or install it yourself as:
 Add the following to your `app/assets/javascripts/application.js`:
 
 	//= require bootstrap.min
-	//= require admin-lte
+	//= require adminlte
 
 ### Include adminlte-rails stylesheet assets
 
@@ -36,12 +36,12 @@ Add the following to your `app/assets/stylesheets/application.css`:
 	 *= require bootstrap
      *= require font-awesome
      *= require ionicons
-     *= require admin-lte
+     *= require adminlte
 
 If you want to use additional features, add more these lines to your `app/assets/stylesheets/application.css`:
 
-     *= require iCheck/all
-     *= require datatables/dataTables.bootstrap
+     *= require plugins/iCheck/all
+     *= require plugins/daterangepicker/daterangepicker
 
 ## Version
 
