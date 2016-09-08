@@ -28,7 +28,7 @@ Add the following to your `app/assets/javascripts/application.js`:
 
 	//= require bootstrap.min
 	//= require admin-lte
-	
+
 ### Include adminlte-rails stylesheet assets
 
 Add the following to your `app/assets/stylesheets/application.css`:
@@ -37,20 +37,20 @@ Add the following to your `app/assets/stylesheets/application.css`:
      *= require font-awesome
      *= require ionicons
      *= require admin-lte
-     
+
 If you want to use additional features, add more these lines to your `app/assets/stylesheets/application.css`:
 
      *= require iCheck/all
      *= require datatables/dataTables.bootstrap
-     
+
 ## Version
 
-1.3.2 (AdminLTE 1.3.0)
+1.3.2 (AdminLTE 2.3.6)
 
 ## Changelog
 
 View [CHANGELOG](CHANGELOG.md)
-    
+
 ## License
 
 AdminLTE-Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
